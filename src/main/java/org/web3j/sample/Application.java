@@ -15,6 +15,7 @@ import org.web3j.utils.Convert;
 import org.web3j.utils.Numeric;
 
 import java.math.BigDecimal;
+import java.math.BigDecimal1;
 
 /**
  * A simple web3j application that demonstrates a number of core features of web3j:
